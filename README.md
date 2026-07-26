@@ -62,20 +62,25 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Analytics & Activity
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShahmeerAli1504&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shahmeer's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahmeerAli1504&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahmeerAli1504&theme=tokyonight" alt="Shahmeer's GitHub Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahmeerAli1504&theme=tokyonight" alt="Most Used Languages" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahmeerAli1504&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ShahmeerAli1504&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahmeerAli1504&theme=tokyonight" alt="Contribution Graph" />
 
 </div>
 
 ---
+
 
 <p align="center">
   <i>"Simplicity is prerequisite for reliability." – Edsger W. Dijkstra</i>
