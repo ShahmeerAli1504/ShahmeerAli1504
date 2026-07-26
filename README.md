@@ -63,16 +63,6 @@ shahmeer@dev-station:~$ cat profile.json
 
 ---
 
-### ⚡ Key Repositories
-
-| Repository | Stack | Architecture / Overview |
-| :--- | :--- | :--- |
-| ⚡ **[distributed-ledger-with-sharding](https://github.com/ShahmeerAli1504/distributed-ledger-with-sharding)** | `Go` `Distributed Systems` | High-throughput distributed ledger implementing dynamic horizontal sharding. |
-| 🧠 **[RomanUrdu-BPEdiary](https://github.com/ShahmeerAli1504/RomanUrdu-BPEdiary)** | `Python` `NLP` `Jupyter` | Custom Byte Pair Encoding (BPE) subword tokenizer tailored for Roman Urdu datasets. |
-| 🌐 **[Homeschooling-Resources-Platform](https://github.com/ShahmeerAli1504/Homeschooling-Resources-Platform)** | `HTML` `CSS` `JS` | Interactive web platform organizing open educational resources. |
-
----
-
 ### 📈 Activity & Contribution Analytics
 
 <div align="center">
