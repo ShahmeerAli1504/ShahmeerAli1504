@@ -95,17 +95,7 @@ shahmeer@dev-station:~$ cat profile.json
 
 ## 📊 GitHub Analytics
 
-<div align="center">
 
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahmeerAli1504&theme=github_dark"
-    width="95%"
-    alt="GitHub Contribution Graph"
-  />
-
-</div>
-
-<br />
 
 <div align="center">
 
