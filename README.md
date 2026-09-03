@@ -117,6 +117,7 @@ shahmeer@dev-station:~$ cat profile.json
   />
 
 </div>
+
 ---
 
 ## Current Direction
