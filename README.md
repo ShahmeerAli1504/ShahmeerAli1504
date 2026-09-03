@@ -98,15 +98,9 @@ shahmeer@dev-station:~$ cat profile.json
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ShahmeerAli1504&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahmeerAli1504&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00F0FF"
-    height="180"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahmeerAli1504&theme=github_dark"
+    width="95%"
+    alt="GitHub Contribution Graph"
   />
 
 </div>
